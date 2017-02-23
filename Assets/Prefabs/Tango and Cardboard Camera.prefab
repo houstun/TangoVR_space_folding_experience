@@ -5,76 +5,76 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 405020}
-  - component: {fileID: 2093838}
-  - component: {fileID: 12416252}
-  - component: {fileID: 11493764}
+  - 4: {fileID: 405020}
+  - 20: {fileID: 2093838}
+  - 124: {fileID: 12416252}
+  - 114: {fileID: 11493764}
   m_Layer: 0
-  m_Name: Camera Left
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &115218
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 412286}
-  - component: {fileID: 2092642}
-  - component: {fileID: 12441904}
-  - component: {fileID: 9286956}
-  - component: {fileID: 8138142}
-  - component: {fileID: 11418796}
-  - component: {fileID: 11483432}
+  - 4: {fileID: 412286}
+  - 20: {fileID: 2092642}
+  - 124: {fileID: 12441904}
+  - 92: {fileID: 9286956}
+  - 81: {fileID: 8138142}
+  - 114: {fileID: 11418796}
+  - 114: {fileID: 11483432}
   m_Layer: 0
-  m_Name: Camera
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &170468
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 418842}
-  - component: {fileID: 11439108}
-  - component: {fileID: 14387458}
-  - component: {fileID: 11417286}
+  - 4: {fileID: 418842}
+  - 114: {fileID: 11439108}
+  - 143: {fileID: 14387458}
+  - 114: {fileID: 11417286}
   m_Layer: 0
   m_Name: Tango and Cardboard Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &189380
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 402558}
-  - component: {fileID: 2083362}
-  - component: {fileID: 12458212}
-  - component: {fileID: 11410000}
+  - 4: {fileID: 402558}
+  - 20: {fileID: 2083362}
+  - 124: {fileID: 12458212}
+  - 114: {fileID: 11410000}
   m_Layer: 0
-  m_Name: Camera Right
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &402558
 Transform:
   m_ObjectHideFlags: 1
@@ -84,10 +84,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.03, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 412286}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &405020
 Transform:
   m_ObjectHideFlags: 1
@@ -97,10 +97,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.03, y: -0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 412286}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &412286
 Transform:
   m_ObjectHideFlags: 1
@@ -110,12 +110,12 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 405020}
   - {fileID: 402558}
   m_Father: {fileID: 418842}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &418842
 Transform:
   m_ObjectHideFlags: 1
@@ -125,11 +125,11 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 412286}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!20 &2083362
 Camera:
   m_ObjectHideFlags: 1
