@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_required">Acció necessària</string>
+    <string name="connection_layout_message_still">No et moguis</string>
+    <string name="connection_layout_message_tight">Espera</string>
+    <string name="device_not_responding_description">Reinicia l\'aplicació o el dispositiu.</string>
+    <string name="device_not_responding_title">El sistema no està disponible</string>
+    <string description="Shown as system notification to hold the device at a suggested posture, in combination with &apos;hold_posture_forward/up/down&apos;." name="hold_posture_description">Orienta el dispositiu cap %s.</string>
+    <string name="hold_posture_down">avall</string>
+    <string name="hold_posture_forward">endavant</string>
+    <string name="hold_posture_title">La inclinació no és correcta</string>
+    <string name="hold_posture_up">amunt</string>
+    <string name="lying_on_surface_description">Agafa el dispositiu per continuar.</string>
+    <string name="lying_on_surface_title">La càmera està bloquejada</string>
+    <string name="motion_track_description">No et moguis perquè el sistema es pugui recuperar.</string>
+    <string name="motion_track_title">S\'ha perdut el seguiment</string>
+    <string name="moving_too_fast_description">Vés més a poc a poc i mantén el dispositiu en una posició fixa.</string>
+    <string name="moving_too_fast_title">Massa ràpid</string>
+    <string name="not_enough_light_description">Utilitza el dispositiu en zones ben il·luminades.</string>
+    <string name="not_enough_light_title">Massa fosc</string>
+    <string description="Shown as system notification to change the device&apos;s system runtime to &apos;ART&apos;, no need to translate &apos;ART&apos;." name="run_time_mismatch_description">Vés a Configuració > Opcions per a desenvolupadors i selecciona Utilitza ART.</string>
+    <string name="run_time_mismatch_title">La configuració no és correcta</string>
+    <string name="service_updated_check_updates">Comprova si hi ha actualitzacions</string>
+    <string description="Shown as system notification to update Tango Core, which is a system library, no need to translate &apos;Tango Core&apos;." name="service_updated_description">Fes l\'actualització a la versió més recent de Tango Core.</string>
+    <string description="No need to translate &apos;Tango Core&apos;." name="service_updated_linkify">Tango Core</string>
+    <string name="service_updated_title">La versió no és compatible</string>
+    <string name="space_not_recognized_description">Orienta el dispositiu a una altra banda</string>
+    <string name="space_not_recognized_title">No es reconeix l\'espai</string>
+    <string name="too_much_light_description">No orientis el dispositiu a llums brillants</string>
+    <string name="too_much_light_title">Massa brillant</string>
+    <string name="unable_to_detect_surface_description">Mantén el dispositiu separat d\'altres objectes almenys per la distància d\'un braç.</string>
+    <string name="unable_to_detect_surface_title">No s\'ha detectat res</string>
+</resources>

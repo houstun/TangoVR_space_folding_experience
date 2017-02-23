@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_required">Påkrævet handling</string>
+    <string name="connection_layout_message_still">Hold stille</string>
+    <string name="connection_layout_message_tight">Hold godt fast</string>
+    <string name="device_not_responding_description">Genstart appen eller enheden.</string>
+    <string name="device_not_responding_title">Systemet er utilgængeligt.</string>
+    <string description="Shown as system notification to hold the device at a suggested posture, in combination with &apos;hold_posture_forward/up/down&apos;." name="hold_posture_description">Peg enheden %s.</string>
+    <string name="hold_posture_down">nedad</string>
+    <string name="hold_posture_forward">fremad</string>
+    <string name="hold_posture_title">Forkert hældning.</string>
+    <string name="hold_posture_up">opad</string>
+    <string name="lying_on_surface_description">Tag enheden op for at fortsætte.</string>
+    <string name="lying_on_surface_title">Kameraet er blokeret.</string>
+    <string name="motion_track_description">Hold enheden i ro, og lad systemet rette op.</string>
+    <string name="motion_track_title">Ingen sporing.</string>
+    <string name="moving_too_fast_description">Bevæg enheden langsommere og stabilt.</string>
+    <string name="moving_too_fast_title">For hurtigt.</string>
+    <string name="not_enough_light_description">Brug enheden et sted med god belysning.</string>
+    <string name="not_enough_light_title">For mørkt.</string>
+    <string description="Shown as system notification to change the device&apos;s system runtime to &apos;ART&apos;, no need to translate &apos;ART&apos;." name="run_time_mismatch_description">Gå til Indstillinger > Indstillinger for udviklere, og vælg \"Brug ART\".</string>
+    <string name="run_time_mismatch_title">Forkert konfiguration.</string>
+    <string name="service_updated_check_updates">Søg efter opdateringer</string>
+    <string description="Shown as system notification to update Tango Core, which is a system library, no need to translate &apos;Tango Core&apos;." name="service_updated_description">Opdater til den nyeste Tango Core.</string>
+    <string description="No need to translate &apos;Tango Core&apos;." name="service_updated_linkify">Tango Core</string>
+    <string name="service_updated_title">Inkompatibel version.</string>
+    <string name="space_not_recognized_description">Peg enheden i en anden retning.</string>
+    <string name="space_not_recognized_title">Rummet blev ikke genkendt.</string>
+    <string name="too_much_light_description">Undgå at pege mod skarpt lys.</string>
+    <string name="too_much_light_title">For lyst.</string>
+    <string name="unable_to_detect_surface_description">Hold enheden mindst en arms længde fra andre genstande.</string>
+    <string name="unable_to_detect_surface_title">Der blev ikke registreret noget.</string>
+</resources>

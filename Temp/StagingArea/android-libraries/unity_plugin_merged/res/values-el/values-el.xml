@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_required">Απαιτείται ενέργεια από μέρους του χρήστη</string>
+    <string name="connection_layout_message_still">Μείνετε ακίνητοι</string>
+    <string name="connection_layout_message_tight">Κρατήστε γερά</string>
+    <string name="device_not_responding_description">Επανεκκινήστε την εφαρμογή ή τη συσκευή.</string>
+    <string name="device_not_responding_title">Σύστημα μη διαθέσιμο.</string>
+    <string description="Shown as system notification to hold the device at a suggested posture, in combination with &apos;hold_posture_forward/up/down&apos;." name="hold_posture_description">Στρέψτε τη συσκευή %s.</string>
+    <string name="hold_posture_down">κάτω</string>
+    <string name="hold_posture_forward">μπροστά</string>
+    <string name="hold_posture_title">Λανθασμένη κλίση.</string>
+    <string name="hold_posture_up">πάνω</string>
+    <string name="lying_on_surface_description">Σηκώστε τη συσκευή για να συνεχίσετε.</string>
+    <string name="lying_on_surface_title">Η κάμερα είναι αποκλεισμένη.</string>
+    <string name="motion_track_description">Κρατήστε σταθερά για αποκατάσταση του συστήματος.</string>
+    <string name="motion_track_title">Το ίχνος παρακολούθησης χάθηκε.</string>
+    <string name="moving_too_fast_description">Επιβραδύνετε και κρατήστε σταθερή τη συσκευή.</string>
+    <string name="moving_too_fast_title">Πολύ γρήγορη κίνηση.</string>
+    <string name="not_enough_light_description">Χρησιμοποιήστε τη συσκευή σε καλά φωτισμένους χώρους.</string>
+    <string name="not_enough_light_title">Πολύ σκοτεινό περιβάλλον.</string>
+    <string description="Shown as system notification to change the device&apos;s system runtime to &apos;ART&apos;, no need to translate &apos;ART&apos;." name="run_time_mismatch_description">Μεταβείτε στις Ρυθμίσεις> Επιλογές για προγραμματιστές και επιλέξτε “Χρήση ART”.</string>
+    <string name="run_time_mismatch_title">Εσφαλμένη διαμόρφωση ρυθμίσεων.</string>
+    <string name="service_updated_check_updates">Έλεγχος για ενημερώσεις</string>
+    <string description="Shown as system notification to update Tango Core, which is a system library, no need to translate &apos;Tango Core&apos;." name="service_updated_description">Ενημέρωση στην πιο πρόσφατη έκδοση Tango Core.</string>
+    <string description="No need to translate &apos;Tango Core&apos;." name="service_updated_linkify">Tango Core</string>
+    <string name="service_updated_title">Μη συμβατή έκδοση.</string>
+    <string name="space_not_recognized_description">Στρέψτε τη συσκευή σας κάπου αλλού.</string>
+    <string name="space_not_recognized_title">Ο χώρος δεν αναγνωρίστηκε.</string>
+    <string name="too_much_light_description">Αποφύγετε να στρέφεστε προς έντονα φώτα.</string>
+    <string name="too_much_light_title">Υπερβολικά έντονος φωτισμός.</string>
+    <string name="unable_to_detect_surface_description">Κρατήστε τη συσκευή σε απόσταση από τα αντικείμενα τουλάχιστον ίση με το μήκος ενός βραχίονα.</string>
+    <string name="unable_to_detect_surface_title">Δεν εντοπίστηκε τίποτα.</string>
+</resources>
